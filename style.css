@@ -64,6 +64,10 @@ html {
     border-radius: 20px;
 }
 
+#header ul li a.home-link {
+    font-size: 72px;
+}
+
 #header ul li a:hover,
 #header ul li a.active {
     background: #7cc9f2;
