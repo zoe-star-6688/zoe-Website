@@ -230,10 +230,9 @@ section #text {
 
 /* Properties for each fish and sea bed*/
 #fish1 {
-    top: 0%;
+    top: 10%;
     transform: scaleX(-1);
     left: 70%;
-    bottom: -10%;
 }
 
 #fish2 {
