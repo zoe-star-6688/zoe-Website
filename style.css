@@ -232,6 +232,8 @@ section #text {
 #fish1 {
     top: 0%;
     transform: scaleX(-1);
+    left: 70%;
+    bottom: -10%;
 }
 
 #fish2 {

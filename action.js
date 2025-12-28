@@ -50,7 +50,7 @@ window.addEventListener('scroll', function () {
     }
 
     //Move fishes horizontally
-    fish1.style.right = (value - 100) * 1 + 'px';
+    fish1.style.bottom = (value - 100) * 0.8 + 'px';
     fish2.style.left = (value - fish2move) * 1 + 'px';
     fish3.style.right = (value - fish3move) * 1 + 'px';
     fish4.style.left = (value - fish4move) * 1 + 'px';
