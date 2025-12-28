@@ -235,6 +235,7 @@ section #text {
 
 #fish2 {
     top: 32%;
+    transform: scaleX(-1);
 }
 
 #fish3 {
